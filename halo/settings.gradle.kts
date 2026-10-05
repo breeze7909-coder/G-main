@@ -13,9 +13,6 @@ pluginManagement {
         mavenCentral()
         gradlePluginPortal()
     }
-    plugins {
-        id("com.android.application") version "8.13.0"
-    }
 }
 
 dependencyResolutionManagement {
